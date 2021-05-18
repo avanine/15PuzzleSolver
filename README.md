@@ -4,5 +4,8 @@
 
 Projekti on tehty Helsingin yliopiston kurssille Aineopintojen harjoitustyö: Tietorakenteet ja algoritmit.
 
-## Viikkoraportit
+## Dokumentaatio
+* [Määrittelydokumentti](https://github.com/avanine/15PuzzleSolver/blob/main/dokumentaatio/maarittelydokumentti.md)
+
+### Viikkoraportit
 * [Viikko 1](https://github.com/avanine/15PuzzleSolver/blob/main/dokumentaatio/viikkoraportti1.md)
