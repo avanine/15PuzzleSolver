@@ -1,5 +1,5 @@
 
-package Solver.domain;
+package solver.domain;
 
 import java.util.ArrayList;
 import java.util.Collections;

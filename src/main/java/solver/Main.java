@@ -1,6 +1,6 @@
-package Solver;
+package solver;
 
-import Solver.ui.SolverUi;
+import solver.ui.SolverUi;
 
 /**
  * Main-luokka sovelluksen käynnistämiseen.

@@ -1,7 +1,7 @@
 
-package Solver.ui;
+package solver.ui;
 
-import Solver.domain.SolverLogic;
+import solver.domain.SolverLogic;
 import javafx.application.Application;
 import javafx.stage.Stage;
 
