@@ -13,7 +13,7 @@ public class Main {
      * Main-metodi joka kutsuu graafisen käyttöliittymän toteuttavan luokan
      * main-metodia.
      *
-     * @param args
+     * @param args args
      */
     public static void main(String[] args) {
         SolverUi.main(args);

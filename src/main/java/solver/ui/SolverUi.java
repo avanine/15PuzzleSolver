@@ -15,11 +15,11 @@ public class SolverUi extends Application {
     public void start(Stage stage) throws Exception {
         // testi
         SolverLogic solver = new SolverLogic();
-        solver.naytaRuudukko();
+        //solver.naytaRuudukko();
     }
     /**
      * Main-metodi luokan käynnistämiseen.
-     * @param args 
+     * @param args args
      */
     public static void main(String args[]) {
         launch(args);
