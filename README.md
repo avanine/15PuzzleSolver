@@ -9,6 +9,7 @@ Projekti on tehty Helsingin yliopiston kurssille Aineopintojen harjoitustyö: Ti
 
 ### Viikkoraportit
 * [Viikko 1](https://github.com/avanine/15PuzzleSolver/blob/main/dokumentaatio/viikkoraportti1.md)
+* [Viikko 2](https://github.com/avanine/15PuzzleSolver/blob/main/dokumentaatio/viikkoraportti2.md)
 
 ## Komentorivitoiminnot
 
